@@ -2,3 +2,5 @@ gonzalo
 cr7
 luciano
 messi
+mario
+eduardo
